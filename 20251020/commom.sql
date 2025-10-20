@@ -1,0 +1,7 @@
+		SELECT
+*
+		FROM CODE_MASTER
+		WHERE
+			CATEGORY = "ABBAA00"
+		AND
+			USE_YN     ='Y';
